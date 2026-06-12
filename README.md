@@ -26,4 +26,4 @@ A passionate Computer Science student and developer from India. I love exploring
 ---
 
 ### 🌐 Connect with me:
-[LinkedIn](https://linkedin.com/in/DurgeshPal) | [Portfolio](https://https://www.linkedin.com/posts/durgesh-pal-0a6209379_webdevelopment-portfolio-html-activity-7448037585207164928-2UO7?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAF14JT4BpmIWCMmAGMgAIZsG49iMKA6ucYI)
+[LinkedIn](https://www.linkedin.com/in/durgesh-pal-0a6209379/) |
