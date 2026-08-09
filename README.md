@@ -1,4 +1,4 @@
-# Hi there, I'm [Durgesh Pal] 👋
+# Hi there, I'm Durgesh Pal 👋
 
 A passionate Computer Science student and developer from India. I love exploring new technologies and building secure web applications.
 
