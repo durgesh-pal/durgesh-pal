@@ -6,7 +6,7 @@ A passionate Computer Science student and developer from India. I love exploring
 
 ### 🚀 About Me:
 - 🎓 Pursuing B.Tech in Computer Science and Cyber Security.
-- 💻 Passionate about Frontend Web Development & Data Science.
+- 💻 Passionate about Frontend Web Development & Data Science. 
 - 🔒 Interested in Ethical Hacking and Network Security.
 - 🎯 Looking to collaborate on Open Source projects.
 
